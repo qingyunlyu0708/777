@@ -97,5 +97,6 @@ ax.set_title("A process model of value co-creation and attenuation in a social v
              fontsize=14.5,fontweight="bold",pad=14)
 
 plt.tight_layout()
-fig.savefig("figure_process_model.png",dpi=200,bbox_inches="tight",facecolor="white")
-print("saved")
+for ext in ("png","pdf","svg"):
+    fig.savefig(f"figure_process_model.{ext}",dpi=200,bbox_inches="tight",facecolor="white")
+print("saved png/pdf/svg")
