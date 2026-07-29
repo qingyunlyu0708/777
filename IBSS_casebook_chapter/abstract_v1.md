@@ -2,6 +2,23 @@
 
 **Topic: AI-Driven Innovation and Competitive Advantage in Chinese Enterprises**
 
+## Abstract (FINAL v5 — trimmed after Word showed v4 at ~320; targets ~297 on Word's counter)
+
+This chapter investigates the transformation of Chinese enterprises through artificial intelligence, moving beyond consumer-facing applications to examine AI's impact on the entire business value chain. We argue that the strategic deployment of AI across front, middle, and back-office operations is creating a new paradigm for operational efficiency, revenue management, and competitive advantage in China's digital ecosystem. The chapter presents three case studies, each representing a layer of the enterprise.
+
+The front-end case examines the AI-powered unmanned convenience stores of Shizu Group (十足集团). Driven by large vision models, the system goes beyond automating check-out to redefine the retail service model: a hybrid "staffed-plus-unstaffed" mode extends operations to 24 hours across nearly 4,500 stores, reducing labour costs while capturing forgone night-time revenue.
+
+The middle-end case analyses AI-driven supply chain management. The replenishment and markdown system Dmall (多点数智) built for retailer Wumart (物美) balances stock availability against waste for perishable daily-fresh merchandise, applying a "one store, one strategy" algorithm that cut stock-out rates from 7% to below 2% and fresh-food loss to 3%.
+
+Finally, the back-end case traces how Fresh Legend (生鲜传奇) rebuilt pricing as algorithmic infrastructure. Its proprietary Nezha system issues time-based discount labels that reprice fresh products by remaining shelf life, converting markdown from a discretionary manual practice into a governed, data-driven routine that reinforces the brand's freshness positioning.
+
+Collectively, these cases provide a holistic view of AI's transformative power. The chapter concludes by integrating these findings to discuss broader themes of AI-driven competitive advantage in China, offering academics and practitioners a framework for understanding how Chinese businesses are building robust, AI-centric models redefining industry standards.
+
+### v5 notes
+
+- Net −23 words vs v4: case openers become parallel layer labels ("The front-end case..." etc., −8); "the common focus on" (−4); "that technology provider" (−3); comprehensive/unique/critical/previously/automatically/the (−6); "that are redefining" → "redefining" (−2).
+- Backup cuts if still over: "Finally," / "nearly" / "proprietary". If room appears, restore "previously" first.
+
 ## Abstract (FINAL v4, as sent to editor — with Chinese company names, ≤300 words)
 
 This chapter investigates the comprehensive transformation of Chinese enterprises through artificial intelligence, moving beyond the common focus on consumer-facing applications to examine AI's impact on the entire business value chain. We argue that the strategic deployment of AI across the front, middle, and back-office operations is creating a new paradigm for operational efficiency, revenue management, and competitive advantage in China's unique digital ecosystem. The chapter presents three case studies, each representing a critical layer of the enterprise.
